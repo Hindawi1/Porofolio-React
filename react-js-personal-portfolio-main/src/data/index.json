@@ -1,0 +1,40 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Front-end development creates website and app visuals users interact with. It involves UI design, responsive layouts, and HTML, CSS, and JavaScript to enhance user experience. Front-end developers ensure seamless, user-friendly design across devices and browsers."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Back-end development oversees the server-side of web apps, handling logic, data, and communication between front-end and databases. It ensures secure, efficient, and reliable app functionality, including data management, user authentication, server settings, and APIs, vital for app performance."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "UI/UX design creates visually appealing and user-friendly digital experiences. UI focuses on product aesthetics and interactive elements, while UX optimizes the user journey for efficiency and enjoyment. UI and UX designers collaborate to deliver cohesive, user-centric digital solutions."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Dvelopment",
+      "description": "Webflow development simplifies website creation by providing a visual interface for designing and building responsive, feature-rich websites without extensive coding."
+    }
+  ],
+  "portfolio": [
+  
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Todo App ",
+      "description": "A Todo App, short for 'To-Do Application,' is a simple and efficient tool designed to help users organize tasks and manage their daily activities.",
+      "link": "View In Github"
+    }
+
+  ]
+
+}

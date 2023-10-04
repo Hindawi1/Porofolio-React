@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "img",
+			"path": "../../../../../../Downloads/react-js-personal-portfolio-main/public/img"
+		},
+		{
+			"name": "react-js-personal-portfolio-main",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
